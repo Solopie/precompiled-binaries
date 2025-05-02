@@ -1,6 +1,6 @@
-# Compiled Binaries
+# Precompiled Binaries
 
-Collection of Windows/Linux binaries used for pentesting and bug bounty.
+Collection of Windows/Linux binaries that have been compiled to be used for pentesting and bug bounty.
 
 ## Binaries
 
