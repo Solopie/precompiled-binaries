@@ -17,4 +17,8 @@ Collection of Windows/Linux binaries that have been compiled to be used for pent
 - [PPLBlade](./PPLBlade)
     - Latest commit: https://github.com/tastypepperoni/PPLBlade/commit/0e933419732a19ff4245252d32bfcb52b56eb904
     - Date compiled: Fri 19 Jun 2026 16:16:34 AEST
+- [Rubeus](./Rubeus)
+    - Latest commit: https://github.com/GhostPack/Rubeus/commit/74215f68ea70bd6a66c008da91bf5fe21d20b154
+    - Date compiled: Fri 19 Jun 2026 19:14:31 AEST
+
 
