@@ -14,3 +14,7 @@ Collection of Windows/Linux binaries that have been compiled to be used for pent
 - [EDRChoker](./EDRChoker)
     - Latest commit: https://github.com/TwoSevenOneT/EDRChoker/commit/11f9b56f7cdabf470112a4dd770fcb4c9351a46b
     - Date compiled: Fri 19 Jun 2026 14:06:17 AEST
+- [PPLBlade](./PPLBlade)
+    - Latest commit: https://github.com/tastypepperoni/PPLBlade/commit/0e933419732a19ff4245252d32bfcb52b56eb904
+    - Date compiled: Fri 19 Jun 2026 16:16:34 AEST
+
