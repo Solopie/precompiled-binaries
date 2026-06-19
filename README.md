@@ -20,5 +20,9 @@ Collection of Windows/Linux binaries that have been compiled to be used for pent
 - [Rubeus](./Rubeus)
     - Latest commit: https://github.com/GhostPack/Rubeus/commit/74215f68ea70bd6a66c008da91bf5fe21d20b154
     - Date compiled: Fri 19 Jun 2026 19:14:31 AEST
+- [Whiskter](./Whisker)
+    - Latest commit: https://github.com/eladshamir/Whisker/commit/9a236c063e37f2d59c1637bdefcae6b4371bf466
+    - Date compiled: Fri 19 Jun 2026 20:52:49 AEST
+
 
 
